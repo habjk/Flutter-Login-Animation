@@ -46,7 +46,7 @@ class _MyHomePageState extends State<MyHomePage> {
     return Scaffold(
       body: Column(
         children: [
-          /*Container(
+          Container(
               height: 400,
               width: double.infinity,
               decoration: const BoxDecoration(
@@ -70,7 +70,7 @@ class _MyHomePageState extends State<MyHomePage> {
                         height: 150,
                       ))
                 ],
-              )),*/
+              )),
         ],
       ),
       // This trailing comma makes auto-formatting nicer for build methods.
